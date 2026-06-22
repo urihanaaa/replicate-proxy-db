@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "replicate-proxy-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "058a5d8a-402e-4adf-9204-c496e9ef6d2f",
+			"database_name": "replicate-proxy-db-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
